@@ -1,0 +1,993 @@
+body {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+div {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+ul {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+li {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h1 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h2 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h3 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h4 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h5 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h6 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+p {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+img {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+strong {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+span {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+cite {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+body {
+	color: rgb(51, 51, 51); font-size: 16px;
+}
+ul {
+	list-style: none;
+}
+li {
+	list-style: none;
+}
+table {
+	border-collapse: collapse;
+}
+a {
+	color: rgb(51, 51, 51); text-decoration: none;
+}
+a:hover {
+	color: rgb(215, 4, 4); position: relative;
+}
+.clear {
+	width: 100%; height: 0px; overflow: hidden; clear: both; margin-top: 0px;
+}
+.mt10 {
+	margin-top: 10px;
+}
+.mt5 {
+	margin-top: 5px;
+}
+a.ml5 {
+	margin-left: 5px;
+}
+.mt15 {
+	margin-top: 15px;
+}
+.mt20 {
+	margin-top: 20px;
+}
+.mt25 {
+	margin-top: 25px;
+}
+.mt30 {
+	margin-top: 30px;
+}
+.padding10 {
+	padding: 10px;
+}
+.pt20 {
+	padding-top: 15px;
+}
+.font12 {
+	font-size: 12px;
+}
+.font13 {
+	font-size: 13px;
+}
+.font14 {
+	font-size: 14px;
+}
+.agent_text {
+	font-size: 15px; font-weight: 600;
+}
+.agent_content dd {
+	line-height: 50px; text-indent: 18px; font-size: 14px;
+}
+.agent_content i {
+	color: rgb(255, 0, 0); font-weight: 600; text-decoration: underline; cursor: pointer;
+}
+form {
+	
+}
+input {
+	
+}
+button {
+	
+}
+a {
+	text-decoration: none;
+}
+a:active {
+	
+}
+.top_width{
+    width: 1200px;
+    margin: 0 auto;
+    height: 260px;
+    margin-top: 10px;
+	background:url(./bennr.png)no-repeat;
+}
+.game_top {
+	margin: 0px auto; width: 1200px;
+}
+.game_nav {
+	background: rgb(71, 71, 71); width: 100%; height: 50px;
+}
+.game_nav_inner {
+	margin: 0px auto; width: 1200px; line-height: 50px;
+}
+.game_nav_inner ul {
+	float: left;
+}
+.game_nav_inner ul li {
+	width: 140px; text-align: center; float: left; display: inline;
+}
+.game_nav_inner ul li a {
+	color: rgb(255, 255, 255); font-size: 18px; display: block;
+}
+.game_nav_inner ul li.yx_cur > a {
+	background: rgb(255, 74, 57); font-weight: 700;
+}
+.game_nav_inner ul li a:hover {
+	background: rgb(255, 74, 57);
+}
+.game_top_logo {
+	padding-top: 15px;
+}
+.game_content_out {
+	margin: 0px auto; width: 1200px; padding-bottom: 10px; position: relative;
+}
+.game-list-title {
+	height: 46px;
+}
+.game-list-title-in h3 {
+	margin: 0px auto; height: 46px; text-align: center; color: rgb(255, 255, 255); line-height: 46px; font-size: 18px;
+}
+.game-total {
+	padding-top: 5px; font-size: 16px; float: right;
+}
+.game-total span {
+	color: rgb(255, 74, 57); font-size: 18px;
+}
+.game-nodata {
+	padding: 30px 0px; height: 20px; text-align: center; line-height: 20px;
+}
+.pagelist {
+	margin: 20px 0px; padding: 20px 0px; text-align: center;
+}
+.pagelist span {
+	margin: 0px 1px; display: inline-block;
+}
+.pagelist a {
+	padding: 4px 10px; border: 1px solid rgb(204, 204, 204); border-image: none; color: rgb(102, 102, 102);
+}
+.pagelist a:hover {
+	background: rgb(255, 74, 57); border: 1px solid rgb(202, 123, 114); border-image: none; color: rgb(255, 255, 255);
+}
+.pagelist a.now {
+	background: rgb(255, 74, 57); border: 1px solid rgb(202, 123, 114); border-image: none; color: rgb(255, 255, 255);
+}
+.game_linkpath {
+	margin: 0px auto; padding: 20px 0px; width: 1200px; font-size: 14px;
+}
+.game_linkpath a {
+	color: rgb(255, 74, 57);
+}
+.mod-box-3 {
+	padding: 0px; width: 270px; overflow: hidden;
+}
+.mod-box-3 .hd {
+	height: 25px; line-height: 25px; overflow: hidden;
+}
+.mod-box-3 .hd h2 {
+	color: rgb(0, 0, 0); font-size: 14px;
+}
+.mod-box-3 .hd span a {
+	color: rgb(51, 51, 51); line-height: 25px; padding-right: 10px; font-family: "EIIa"; font-size: 12px;
+}
+.mod-box-3 .bd {
+	
+}
+.rank-tab {
+	padding: 0px 5px 0px 0px; float: right;
+}
+.rank-tab li {
+	margin-right: 3px; float: left;
+}
+.rank-tab li a {
+	width: 58px; height: 25px; text-align: center; color: rgb(255, 255, 255); line-height: 24px; font-size: 14px; display: block; cursor: pointer;
+}
+.rank-tab li a.current {
+	background-position: -200px -500px;
+}
+.pr-list {
+	padding: 0px;
+}
+.pr-list li {
+	padding: 2px 0px; height: 36px; line-height: 36px; clear: both; vertical-align: bottom; border-bottom-color: rgb(235, 235, 235); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.pr-list li a {
+	color: rgb(51, 51, 51);
+}
+.pr-list li em {
+	background: rgb(224, 224, 224); margin: 6px 15px 0px 0px; border-radius: 2px; width: 22px; height: 22px; text-align: center; color: rgb(104, 104, 104); line-height: 22px; font-family: "microsoft yahei"; font-size: 16px; font-style: normal; float: left; display: inline; -moz-border-radius: 2px; -webkit-border-radius: 2px; -ms-border-radius: 2px; -o-border-radius: 2px;
+}
+.pr-list li em.up {
+	background: rgb(241, 93, 77); color: rgb(255, 255, 255);
+}
+.pr-list li .img-area {
+	display: none;
+}
+.pr-list li .txt-area {
+	display: none;
+}
+.pr-list li .title {
+	width: 240px; height: 35px; overflow: hidden; margin-left: -50px; float: right;
+}
+.pr-list li .title a {
+	font-family: "Microsoft YaHei"; font-size: 14px;
+}
+.pr-list li .title strong {
+	width: 175px; height: 35px; line-height: 35px; overflow: hidden; font-weight: 400; display: inline-block;
+}
+.pr-list li .title span {
+	height: 35px; color: rgb(153, 153, 153); line-height: 35px; overflow: hidden; font-size: 12px; float: right; display: inline-block;
+}
+.ph_text h3 {
+	font-family: "Microsoft YaHei"; font-size: 14px;
+}
+.ph_text h3 a {
+	font-size: 14px;
+}
+.pr-list li.top {
+	padding: 7px 0px 5px; height: 80px; overflow: hidden;
+}
+.pr-list li.top em {
+	margin: 4px 15px 0px 0px; transition:none; height: 70px; line-height: 70px;
+}
+.pr-list li.top .img-area {
+	margin: 3px 15px 0px 0px; width: 70px; height: 70px; float: left; display: inline; position: relative;
+}
+.pr-list li.top .img-area a {
+	width: 70px; display: block; position: relative; cursor: pointer;
+}
+.pr-list li.top .img-area a img {
+	border-radius: 10px; width: 70px; height: 70px; display: block; -moz-border-radius: 10px; -webkit-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px;
+}
+.pr-list li.top .img-area a .cover {
+	background: none; left: 0px; top: 0px; width: 70px; height: 70px; position: absolute;
+}
+.pr-list li.top .txt-area {
+	width: 140px; height: 90px; color: rgb(147, 142, 51); line-height: 20px; overflow: hidden; margin-right: -20px; float: left; display: inline;
+}
+.pr-list li.top .txt-area h2 {
+	width: 140px; height: 44px; line-height: 22px; overflow: hidden; margin-bottom: 8px;
+}
+.pr-list li.top .txt-area h2 a {
+	color: rgb(51, 51, 51); line-height: 22px; font-size: 14px; display: inline-block;
+}
+.pr-list li.top .txt-area h2 a:hover {
+	color: rgb(241, 93, 77);
+}
+.pr-list li.top .txt-area p {
+	color: rgb(153, 153, 153); overflow: hidden; padding-top: 5px; display: block;
+}
+.pr-list li.top .txt-area p a {
+	background: rgb(215, 4, 4); border-radius: 3px; width: 100px; height: 36px; text-align: center; color: rgb(255, 255, 255); line-height: 36px; font-size: 16px; display: block;
+}
+.pr-list li.top .txt-area p a:hover {
+	background: rgb(243, 42, 42);
+}
+.pr-list li.top .txt-area .download-btn {
+	margin: 3px 0px 0px;
+}
+.pr-list li.top .txt-area .download-btn a {
+	width: 61px; height: 26px; text-align: center; line-height: 26px; display: block;
+}
+.pr-list li.top .txt-area .download-btn a:hover {
+	background-position: -150px -100px;
+}
+.pr-list li.top .title {
+	display: none;
+}
+.pr-list li.top em.up {
+	
+}
+.libao_box {
+	color: rgb(51, 51, 51);
+}
+.libao_name {
+	height: 25px; color: rgb(102, 102, 102); line-height: 25px; overflow: hidden;
+}
+.libao_sy {
+	height: 25px; color: rgb(102, 102, 102); line-height: 25px; overflow: hidden;
+}
+.libao_sy span {
+	color: rgb(241, 93, 77);
+}
+.game-kaifu-left {
+	width: 700px; float: left;
+}
+.game-kaifu-right {
+	width: 280px; float: right;
+}
+.game-intro-info {
+	display: none;
+}
+.newgame-xykcb-out {
+	border: 1px solid rgb(224, 224, 224); border-image: none; height: 402px;
+}
+.newgame-xykcb-inner {
+	
+}
+.newgame-xykcb-inner li {
+	height: 35px; line-height: 35px; font-size: 14px; border-bottom-color: rgb(224, 224, 224); border-bottom-width: 1px; border-bottom-style: dashed; position: relative;
+}
+.newgame-xykcb-inner li div.newgame-xykcb-col-1 {
+	transition:0.3s; width: 50px; color: rgb(255, 144, 0); overflow: hidden; padding-left: 15px; position: absolute; z-index: 1; -webkit-transition: all .3s; -o-transition: all .3s; -moz-transition: all .3s;
+}
+.newgame-xykcb-inner li div.newgame-xykcb-col-2 {
+	left: 65px; width: 85px; position: absolute;
+}
+.newgame-xykcb-inner li div.newgame-xykcb-col-3 {
+	left: 150px; width: 55px; text-align: center; color: rgb(102, 102, 102); position: absolute;
+}
+.newgame-xykcb-inner li div.newgame-xykcb-col-4 {
+	left: 203px; width: 75px; margin-right: 15px; position: absolute;
+}
+.newgame-xykcb-inner li div.newgame-xykcb-col-1 .xykcb-time-1 {
+	width: 50px; display: inline-block;
+}
+.newgame-xykcb-inner li div.newgame-xykcb-col-1 .xykcb-time-2 {
+	left: 65px; width: 160px; display: inline-block; position: absolute;
+}
+.newgame-xykcb-inner li div.newgame-xykcb-col-1:hover {
+	background: rgb(255, 74, 57); width: 263px; color: rgb(255, 255, 255); margin-right: -305px; position: absolute; z-index: 1;
+}
+.newgame-xykcb-inner li div.newgame-xykcb-col-4 img {
+	top: 5px; width: 18px; height: 18px; margin-left: 3px; display: inline-block; position: relative;
+}
+.newgame-xykcb-inner li.last {
+	border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.newgame-xykcb-inner li div.newgame-xykcb-col-1 em.now {
+	color: rgb(241, 93, 77); font-style: normal;
+}
+.newgame-xykcb-inner li div.newgame-xykcb-col-1:hover em.now {
+	color: rgb(255, 255, 255);
+}
+.game-index-title-xbtm {
+	height: 38px; font-weight: 400;
+}
+.game-index-title-xbtm span {
+	top: -2px; width: 250px; height: 25px; color: rgb(255, 144, 0); line-height: 20px; padding-top: 13px; font-size: 16px; margin-left: -30px; border-bottom-color: rgb(224, 224, 224); border-bottom-width: 1px; border-bottom-style: solid; float: right; display: inline-block; position: relative;
+}
+.game-index-title-xbtm span cite {
+	color: rgb(255, 144, 0); padding-right: 10px; font-style: normal; float: right;
+}
+.game-kaifu-hotgame-border {
+	border: 1px solid rgb(224, 224, 224); border-image: none; margin-bottom: 15px;
+}
+.game-kaifu-main {
+	padding: 20px; border: 1px solid rgb(224, 224, 224); border-image: none;
+}
+.game-kaifu-main h1 {
+	height: 32px; text-align: center; line-height: 32px; font-size: 18px; margin-bottom: 5px; position: relative;
+}
+.game-kaifu-main h1 strong {
+	display: inline-block; position: relative;
+}
+.game-kaifu-main-left {
+	border-radius: 15px; width: 150px; height: 150px; float: left; -moz-border-radius: 15px; -webkit-border-radius: 15px; -ms-border-radius: 15px; -o-border-radius: 15px;
+}
+.game-kaifu-main-left img {
+	width: 150px; height: 150px;
+}
+.game-kaifu-main-right {
+	width: 490px; overflow: hidden; float: right;
+}
+.game-kaifu-main-right ul {
+	width: 550px;
+}
+.game-kaifu-main-right ul li {
+	width: 235px; height: 30px; color: rgb(102, 102, 102); line-height: 30px; overflow: hidden; font-size: 14px; margin-left: 20px; float: left;
+}
+.game-kaifu-main-plat {
+	
+}
+.game-kaifu-main-plat img {
+	top: 5px; margin-right: 5px; display: inline-block; position: relative;
+}
+.game-kaifu-main-btn {
+	text-align: center; padding-top: 15px;
+}
+.game-kaifu-main-btn a {
+	margin: 0px 10px; border-radius: 5px; width: 140px; height: 42px; color: rgb(255, 255, 255); line-height: 42px; padding-left: 20px; font-size: 18px; display: inline-block; -moz-border-radius: 5px; -webkit-border-radius: 5px; -ms-border-radius: 5px; -o-border-radius: 5px;
+}
+.game-kaifu-main-btn a.game-kaifu-libao {
+	background: url("../images/iyx_nry_l_ico.png") no-repeat 15px -43px / 25px rgb(241, 84, 67);
+}
+.game-kaifu-main-btn a.game-kaifu-libao:hover {
+	background-color: rgb(225, 73, 56);
+}
+.game-kaifu-main-btn a.game-kaifu-down {
+	background: url("../images/ilibao_down.png") no-repeat 15px 7px / 25px rgb(133, 194, 38);
+}
+.game-kaifu-main-btn a.game-kaifu-down:hover {
+	background-color: rgb(108, 168, 16);
+}
+.game-intro-out {
+	border: 1px solid rgb(224, 224, 224); border-image: none; font-size: 16px;
+}
+.game-intro-title-down {
+	padding: 10px 15px; text-align: center; line-height: 25px; cursor: pointer;
+}
+.game-intro-title-up {
+	padding: 10px 15px; text-align: center; line-height: 25px; display: none; cursor: pointer;
+}
+.game-intro-info {
+	padding: 0px 15px 10px; color: rgb(102, 102, 102); line-height: 25px; font-size: 14px;
+}
+.game-kaifu-thumb-title h3 {
+	width: 126px; height: 46px; text-align: center; color: rgb(255, 255, 255); line-height: 46px; font-size: 18px;
+}
+.game-kaifu-thumb {
+	padding: 10px; border: 1px solid rgb(224, 224, 224); border-image: none; overflow: hidden;
+}
+.game-kaifu-thumb ul {
+	width: 700px;
+}
+.game-kaifu-thumb ul li {
+	width: 160px; margin-right: 12px; float: left;
+}
+.game-kaifu-thumb ul li img {
+	width: 160px; height: 240px; overflow: hidden;
+}
+.game-kaifu-list {
+	border: 1px solid rgb(224, 224, 224); border-image: none;
+}
+.game-kaifu-list ul {
+	
+}
+.game-kaifu-list ul li {
+	padding: 15px; border-bottom-color: rgb(224, 224, 224); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.game-kaifu-list-left {
+	width: 100px; height: 100px; float: left;
+}
+.game-kaifu-list-left img {
+	border-radius: 10px; width: 100px; height: 100px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px;
+}
+.game-kaifu-list-center {
+	width: 360px; margin-left: 20px; float: left;
+}
+.game-kaifu-list-right {
+	width: 170px; margin-left: -50px; float: right;
+}
+.game-kaifu-list-center h3 {
+	height: 32px; line-height: 32px; overflow: hidden; font-size: 18px;
+}
+.game-kaifu-list-center div {
+	height: 32px; line-height: 32px; overflow: hidden;
+}
+.game-kaifu-list-center-pt {
+	font-size: 16px;
+}
+.game-kaifu-list-center-pt img {
+	top: 5px; margin-right: 5px; display: inline-block; position: relative;
+}
+.game-kaifu-list-center-pt span {
+	padding-right: 10px; padding-left: 5px;
+}
+.game-kaifu-list-time {
+	color: rgb(85, 85, 85); font-size: 16px;
+}
+.game-kaifu-list-time span {
+	padding: 0px 2px; color: rgb(255, 74, 57);
+}
+.game-kaifu-list-right a {
+	margin: 0px 10px; border-radius: 5px; width: 140px; height: 42px; text-align: center; color: rgb(255, 255, 255); line-height: 42px; padding-left: 20px; font-size: 18px; display: inline-block; -moz-border-radius: 5px; -webkit-border-radius: 5px; -ms-border-radius: 5px; -o-border-radius: 5px;
+}
+.game-kaifu-list-right .game-kaifu-list-lqlb a {
+	background: url("../images/iyx_nry_l_ico.png") no-repeat 15px -43px / 25px rgb(241, 84, 67);
+}
+.game-kaifu-list-right .game-kaifu-list-lqlb a:hover {
+	background-color: rgb(225, 73, 56);
+}
+.game-kaifu-list-right .game-kaifu-list-xzyx a {
+	background: url("../images/ilibao_down.png") no-repeat 15px 7px / 25px rgb(133, 194, 38);
+}
+.game-kaifu-list-right .game-kaifu-list-xzyx a:hover {
+	background-color: rgb(108, 168, 16);
+}
+.game-kaifu-list-right span {
+	margin-bottom: 10px; display: block;
+}
+.game-kaifu-list-title {
+	height: 38px; padding-left: 15px;
+}
+.game-kaifu-list-title span {
+	top: -2px; width: 630px; height: 25px; color: rgb(255, 74, 57); line-height: 25px; padding-top: 13px; font-size: 16px; margin-left: -30px; border-bottom-color: rgb(224, 224, 224); border-bottom-width: 1px; border-bottom-style: solid; float: right; display: inline-block; position: relative;
+}
+.game-kaifu-hotgame-title {
+	height: 38px; padding-left: 15px;
+}
+.game-kaifu-hotgame-title span {
+	top: -2px; width: 210px; height: 25px; color: rgb(255, 74, 57); line-height: 25px; padding-top: 13px; font-size: 16px; margin-left: -30px; border-bottom-color: rgb(224, 224, 224); border-bottom-width: 1px; border-bottom-style: solid; float: right; display: inline-block; position: relative;
+}
+#game-kaifu {
+	margin-left: 15px;
+}
+.game-kaifu-xykcb-title {
+	height: 38px; padding-left: 15px;
+}
+.game-kaifu-xykcb-title span {
+	top: -2px; width: 210px; height: 25px; color: rgb(255, 74, 57); line-height: 25px; padding-top: 13px; font-size: 16px; margin-left: -30px; border-bottom-color: rgb(224, 224, 224); border-bottom-width: 1px; border-bottom-style: solid; float: right; display: inline-block; position: relative;
+}
+.kaifu-bar {
+	height: 40px; overflow: hidden; border-bottom-color: rgb(255, 74, 57); border-bottom-width: 3px; border-bottom-style: solid; position: relative; background: rgb(255, 74, 57);
+}
+.kaifu-bar li {
+	border-width: 1px; border-style: solid; border-color: rgb(224, 224, 224) rgb(224, 224, 224) rgb(255, 74, 57); padding: 0px 30px; border-image: none; height: 40px; color: rgb(255, 74, 57); line-height: 40px; margin-right: 5px; float: left; position: relative; cursor: pointer;
+}
+.kaifu-bar li.select_li {
+	background: rgb(255, 74, 57); border: 1px solid rgb(255, 74, 57); border-image: none; color: rgb(255, 255, 255);
+}
+.kaifu-list-out {
+	/* border: 1px solid rgb(224, 224, 224); */
+	border-image: none;
+	height: auto;
+	overflow: hidden;
+}
+.kaifu-go2kaice {
+	background: rgb(255, 144, 0); padding: 0px 30px; height: 43px; right: 0px; line-height: 40px; float: right; display: inline-block; position: absolute; z-index: 1;
+}
+.kaifu-go2kaice a {
+	color: rgb(255, 255, 255);
+}
+.game-kaifu-list-list-title {
+	height: 38px; padding-left: 15px;
+}
+.game-kaifu-list-list-title span {
+	top: -2px; width: 930px; height: 25px; color: rgb(255, 74, 57); line-height: 25px; padding-top: 13px; font-size: 16px; margin-left: -30px; border-bottom-color: rgb(224, 224, 224); border-bottom-width: 1px; border-bottom-style: solid; float: right; display: inline-block; position: relative;
+}
+.game-kaifu-list-list-title span strong {
+	height: 25px; border-bottom-color: rgb(241, 84, 67); border-bottom-width: 1px; border-bottom-style: solid; display: inline-block; position: relative; z-index: 1;
+}
+.kaifu-list-out {
+	/* border: 1px solid rgb(224, 224, 224); */
+	border-image: none;
+}
+.kaifu-list-out ul {
+	
+}
+.kaifu-list-out ul li {
+	padding: 15px;
+	border: 1px solid #ccc;
+	transition:200ms ease-in-out;
+	width: 1200px;
+	height: 133px;
+	border-bottom:none;
+}
+.kaifu-list-out ul li:last-child{border-bottom:1px solid #ccc;}
+.kaifu-list-out ul li:hover{
+	background: #EFEFEF;
+
+}
+.game-kaifu-list-list-left {
+	width: 100px; height: 100px; float: left;
+}
+.game-kaifu-list-list-left img {
+	border-radius: 10px; width: 100px; height: 100px; -moz-border-radius: 10px; -webkit-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px;
+}
+.game-kaifu-list-list-center {
+	width: 480px; margin-left: 20px; float: left;
+}
+.game-kaifu-list-list-right-inner {
+	width: 420px;
+}
+.game-kaifu-list-list-center h3 {
+	height: 32px; line-height: 32px; overflow: hidden; font-size: 18px;
+}
+.game-kaifu-list-list-center h3 a:hover {
+	left: 1px; top: 1px; position: relative;
+}
+.game-kaifu-list-list-center div {
+	height: 32px; line-height: 32px; overflow: hidden;
+}
+.game-kaifu-list-list-center-pt {
+	font-size: 16px;
+}
+.game-kaifu-list-list-center-pt img {
+	top: 5px; margin-right: 5px; display: inline-block; position: relative;
+}
+.game-kaifu-list-list-center-pt span {
+	padding-right: 10px; padding-left: 5px;
+}
+.game-kaifu-list-list-time {
+	color: rgb(85, 85, 85); font-size: 16px;
+}
+.game-kaifu-list-list-time span {
+	padding: 0px 2px; color: rgb(255, 74, 57);
+}
+.game-kaifu-list-list-right {
+	width: 350px; padding-top: 25px; margin-left: -50px; float: right;
+}
+.game-kaifu-list-list-right a {
+	border-radius: 5px; border: 2px solid rgb(255, 74, 57); border-image: none; width: 100px; height: 42px; text-align: center; line-height: 42px; font-size: 18px; text-decoration: none; margin-left: 5px; display: inline-block; -moz-border-radius: 5px; -webkit-border-radius: 5px; -ms-border-radius: 5px; -o-border-radius: 5px;transition:300ms ease-in-out;
+}
+.game-kaifu-list-list-right a.apk {
+	border: 1px solid #F57212; border-image: none; color: #F57212;
+}
+.game-kaifu-list-list-right a.apk:hover {
+	color: rgb(255, 255, 255); background-color: #F57212;
+}
+.game-kaifu-list-list-right a.ios {
+	border: 2px solid rgb(91, 192, 222); border-image: none; color: rgb(91, 192, 222);
+}
+.game-kaifu-list-list-right a.ios:hover {
+	color: rgb(255, 255, 255); background-color: rgb(91, 192, 222);
+}
+.game-kaifu-list-list-right a.jbios {
+	border: 2px solid rgb(92, 184, 92); border-image: none; color: rgb(92, 184, 92);
+}
+.game-kaifu-list-list-right a.jbios:hover {
+	color: rgb(255, 255, 255); background-color: rgb(92, 184, 92);
+}
+.game-kaifu-list-list-right .game-kaifu-list-lqlb a {
+	background: url("../images/iyx_nry_l_ico.png") no-repeat 15px -43px / 25px rgb(241, 84, 67);
+}
+.game-kaifu-list-list-right .game-kaifu-list-lqlb a:hover {
+	background-color: rgb(225, 73, 56);
+}
+.game-kaifu-list-list-right .game-kaifu-list-xzyx a {
+	background: url("../images/ilibao_down.png") no-repeat 15px 7px / 25px rgb(133, 194, 38);
+}
+.game-kaifu-list-list-right .game-kaifu-list-xzyx a:hover {
+	background-color: rgb(108, 168, 16);
+}
+.game-kaifu-list-list-right span {
+	margin-bottom: 10px; display: inline-block;
+}
+.game-kaifu-list-list-right em {
+	margin: 0px 10px; border-radius: 5px; width: 140px; height: 42px; text-align: center; color: rgb(255, 255, 255); line-height: 42px; padding-left: 10px; font-size: 18px; display: inline-block; -moz-border-radius: 5px; -webkit-border-radius: 5px; -ms-border-radius: 5px; -o-border-radius: 5px;
+}
+.game-kaifu-list-list-right .game-kaifu-list-lqlb-no em {
+	background: url("../images/iyx_nry_l_ico.png") no-repeat 15px -43px / 25px rgb(160, 160, 160); font-style: normal;
+}
+span.game-kaifu-list-xzyx {
+	margin-left: 170px;
+}
+#search_1 {
+	display: none;
+}
+#search_2 {
+	display: none;
+}
+#search_3 {
+	display: none;
+}
+.kaifu-bar li.select_li a {
+	color: rgb(255, 255, 255);
+}
+#game-kaifu {
+	width: 250px;
+}
+#game-kaifu .title {
+	width: 215px;
+}
+#game-kaifu .title strong {
+	width: 140px;
+}
+#game-kaifu .txt-area {
+	width: 135px; overflow: hidden;
+}
+#game-kaifu .txt-area h2 {
+	width: 135px; height: 44px; line-height: 22px; overflow: hidden;
+}
+.view-more-list {
+	padding: 20px 0px; text-align: center;
+}
+.view-more-list a {
+	border-radius: 4px; border: 1px solid rgb(241, 84, 67); border-image: none; width: 200px; height: 36px; color: rgb(241, 84, 67); line-height: 36px; display: inline-block; -moz-border-radius: 4px; -webkit-border-radius: 4px; -ms-border-radius: 4px; -o-border-radius: 4px;
+}
+.view-more-list a:hover {
+	background: rgb(241, 84, 67); color: rgb(255, 255, 255);
+}
+.game-content-left-down {
+	text-align: center;
+}
+.game-content-left-down li {
+	padding-top: 10px;
+}
+.game-content-left-down a {
+	background: url("../images/iyx_l_d_ico.png") no-repeat; border-radius: 5px; width: 200px; height: 40px; color: rgb(255, 255, 255); line-height: 40px; display: inline-block; position: relative;
+}
+.game-content-left-down a i {
+	left: 45px; width: 1px; height: 30px; margin-top: 5px; margin-right: 10px; border-right-color: rgb(255, 255, 255); border-right-width: 1px; border-right-style: dashed; display: inline-block; position: absolute;
+}
+.game-content-left-down a span {
+	padding: 0px 20px; color: rgb(255, 255, 255); display: inline-block; position: relative;
+}
+.game-content-az a {
+	background-position: 10px 8px; background-color: rgb(170, 205, 6);
+}
+.game-content-az a:hover {
+	background-color: rgb(152, 183, 9);
+}
+.game-content-pg a {
+	background: 10px -46px rgb(68, 68, 68);
+}
+.game-content-pg a:hover {
+	background-color: rgb(51, 51, 51);
+}
+.game-content-wp a {
+	background: 10px -98px rgb(66, 196, 255);
+}
+.game-content-wp a:hover {
+	background-color: rgb(54, 168, 220);
+}
+.outlink {
+	margin-top: 30px;
+}
+.outlink table {
+	margin: 0px auto;
+}
+.outlink img {
+	margin: 0px; padding: 0px;
+}
+.outlink {
+	margin-top: 30px;
+}
+.outlink table {
+	margin: 0px auto;
+}
+.outlink img {
+	margin: 0px; padding: 0px;
+}
+ul#paylist {
+	height: auto; overflow: hidden; display: block;
+}
+ul#paylist li {
+	width: 100px; height: auto; margin-left: 10px; float: left; display: block;
+}
+ul#paylist li img {
+	border-radius: 10px;
+}
+ul#paylist li a {
+	text-align: center; display: block;
+}
+.kaifu-list-out .input-sm {
+	width: 200px;
+}
+.control-box {
+	margin-top: 20px;
+}
+.control-box label {
+	top: 0px; width: 140px; text-align: right; position: relative;
+}
+.payinput {
+	padding-bottom: 20px;
+}
+.paybtn {
+	padding-left: 140px;
+}
+label.pay_type {
+	width: auto; font-size: 12px;
+}
+label.payto {
+	width: auto; font-size: 12px;
+}
+.paycheckbox {
+	width: 490px; float: left; display: inline-block; -ms-word-wrap: break-word;
+}
+.cardtypecheck {
+	width: 490px; float: left; display: inline-block; -ms-word-wrap: break-word;
+}
+ul.pay_money_list {
+	width: auto; height: auto; overflow: hidden;
+}
+ul.pay_money_list li {
+	padding: 0px; border: 0px currentColor; border-image: none; width: 110px; height: 28px; line-height: 28px; float: left; display: inline-table;
+}
+.kaifu-list-out .other_money_input {
+	width: 90px;
+}
+.moneylabel {
+	width: 140px;
+}
+.cardtypelabel {
+	width: 140px;
+}
+.moneybox {
+	padding-left: 5px; float: left; display: block;
+}
+.cardtypebox {
+	padding-left: 5px; float: left; display: block;
+}
+#game_list ul li {
+	padding: 8px; border: 0px currentColor; border-image: none; font-size: 13px; float: left;
+}
+#server_list ul li {
+	padding: 8px; border: 0px currentColor; border-image: none; font-size: 13px; float: left;
+}
+.modal-body {
+	height: auto; overflow: hidden;
+}
+div.modal-dialog {
+	top: 25%;
+}
+#pay_request p {
+	padding: 15px;
+}
+#select_order ul li {
+	padding: 5px;
+}
+#select_order ul li label {
+	margin-right: 5px;
+}
+.nav {
+	width: 100%; height: 30px; line-height: 30px; display: inline-table; background-color: rgb(245, 245, 245);
+}
+.nav_inner ul {
+	width: 100%; height: 30px; line-height: 30px; display: inline-table; background-color: rgb(245, 245, 245);
+}
+.nav_inner {
+	margin: 0px auto; width: 1200px; height: 30px; line-height: 30px;
+}
+.nav_inner ul li {
+	color: rgb(108, 108, 108); font-size: 12px; margin-right: 5px; float: left;
+}
+.nav a {
+	color: rgb(255, 68, 0); font-weight: 600;
+}
+ul.nav_inner_right {
+	width: 49.5%;
+}
+ul.nav_inner_left {
+	width: 49.5%;
+}
+ul.nav_inner_right li {
+	float: right; display: block;
+}
+.securetip {
+	padding: 10px; left: 50%; top: 10px; width: 700px; height: 100px; margin-left: -200px; position: absolute; z-index: 50;
+}
+.submit_reg_btn {
+	margin-bottom: 10px;
+}
+.submit_login_btn {
+	margin-bottom: 10px;
+}
+.reg_msg {
+	padding: 8px; width: 100%; display: none;
+}
+.login_msg {
+	padding: 8px; width: 100%; display: none;
+}
+.game-type {
+	margin-left: 10px;
+}
+.nav_cc a:hover {
+	text-decoration: none;
+}
+.nav_cc a{
+		transition:300ms ease-in-out;
+}
+.nav_cc li {
+	position: relative;
+}
+div.user {
+	width: 489px; overflow: hidden; float: left; min-height: 200px;
+}
+div.user_info {
+	width: 488px; padding-right: 10px; border-right-color: rgb(224, 224, 224); border-right-width: 1px; border-right-style: solid;
+}
+div.spread_info {
+	padding-left: 10px;
+}
+.user .panel-body {
+	font-size: 12px;
+}
+.user .panel-body p {
+	padding: 8px; margin-bottom: 10px; border-bottom-color: rgb(224, 224, 224); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.user .panel-body p em {
+	color: rgb(255, 0, 0); font-weight: 600;
+}
+.panel-heading a {
+	font-size: 13px; font-weight: 600; margin-top: 3px; float: right; display: inline-block;
+}
+.panel-heading em {
+	color: rgb(255, 0, 0); font-size: 11px;
+}
+ul.web_game_kf {
+	margin-left: -20px;
+}
+ul.web_game_kf .mask {
+	transition:0.2s; left: 0px; top: -235px; width: 100%; height: 235px; font-size: 16px; position: absolute;
+}
+ul.web_game_kf .pic {
+	background: url("../images/bg_img.jpg") no-repeat center; transition:0.2s; width: 100%; height: 235px; display: block;
+}
+ul.web_game_kf .name {
+	background: rgb(239, 239, 239); height: 40px; text-align: center; color: rgb(17, 17, 17); line-height: 40px; font-size: 20px; position: relative;
+}
+ul.web_game_kf li {
+	background: rgb(197, 66, 74); margin: 0px 0px 20px 20px; padding: 0px; border: 0px currentColor; border-image: none; width: 235px; height: 275px; overflow: hidden; float: left; display: block; position: relative;
+}
+ul.web_game_kf li:hover {
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.8);
+}
+ul.web_game_kf li:hover .name {
+	background: 0px 0px rgb(9, 173, 255); color: rgb(255, 255, 255);
+}
+ul.web_game_kf li:hover .mask {
+	top: 0px;
+}
+ul.web_game_kf li:hover .pic {
+	opacity: 0.1; transform: scale(1.2);
+}
+ul.web_game_kf .server_item {
+	background: no-repeat 50% -10px rgba(0, 0, 0, 0); transition:0.2s; left: 0px; top: 0px; width: 100%; height: 235px; text-align: center; line-height: 235px; font-size: 25px; font-weight: 600; position: absolute;
+}
+ul.web_game_kf .bottom {
+	padding: 0px 20px 15px; left: 0px; width: 100%; bottom: 0px; position: absolute;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+ul.web_game_kf .enter {
+	padding: 5px 10px; border-radius: 20px; border: 1px solid rgb(246, 232, 233); border-image: none; line-height: 1; font-size: 14px; display: inline-block;
+}
+ul.web_game_kf a {
+	color: rgb(255, 255, 255);
+}
+ul.web_game_server_list li {
+	padding: 0px; transition:background-color 0.2s ease-in-out; width: 250px; height: 50px; text-align: center; line-height: 50px; font-size: 14px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: dotted; float: left; display: block;
+}
+ul.web_game_server_list li a {
+	color: rgb(0, 161, 241);
+}
+ul.web_game_server_list li:hover {
+	background-color: rgb(197, 233, 242);
+}
+ul.web_game_server_list li em {
+	background: 0px 0px green; padding: 2px; color: rgb(255, 255, 255); line-height: 1; font-size: 12px; font-style: normal; font-weight: 400; margin-left: 2px; display: inline-block;
+}
+li.has_sub ul {
+	color: rgb(255, 255, 255); display: none; position: absolute; z-index: 500;
+}
+li.has_sub ul li {
+	background: 0px 0px rgb(71, 71, 71);
+}
+.web_game_payrate {
+	top: 0px; width: 235px; height: 30px; text-align: center; right: 0px; color: rgb(255, 255, 51); line-height: 30px; font-size: 15px; font-weight: 600; position: absolute; background-color: rgb(255, 0, 0);
+}

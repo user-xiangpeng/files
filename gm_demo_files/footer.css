@@ -1,0 +1,144 @@
+html #footer {
+	width: 100%; font-size: 14px;
+}
+html #footer * a:hover {
+	color: rgb(255, 102, 0);
+}
+body {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+div {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+ul {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+li {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+p {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h1 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h2 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h3 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h4 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h5 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+h6 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+p {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+img {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-family: microsoft yahei;
+}
+ul {
+	list-style: none;
+}
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+.footer {
+	width: 100%;background:#4E4E4E;color:#fff;margin-top:60px;
+}
+.footer a{
+	color:#fff;
+}
+.footer-sitemap-out {
+	height: 243px;
+}
+.footer-cr-fl-out {
+	border-top: 4px solid #F57429;
+}
+.footer-cr-fl-inner {
+	margin: 0px auto; padding: 0px 0px 50px; width: 1000px;
+}
+.footer-friendlinks {
+	color: rgb(108, 108, 108); line-height: 25px; padding-bottom: 25px; font-size: 12px; border-bottom-color: rgb(108, 108, 108); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.footer-friendlinks a {
+	color: rgb(108, 108, 108); font-size: 12px; margin-right: 10px; display: inline-block; white-space: nowrap;
+}
+.footer-friendlinks strong {
+	color: rgb(108, 108, 108);
+}
+.index-aboutus {
+	text-align: center; line-height: 25px; padding-top: 40px; font-size: 12px;
+}
+.index-aboutus a {
+	margin: 0px 8px; font-size: 12px; display: inline-block;
+}
+.copyright {
+	text-align: center; line-height: 25px; font-size: 12px;
+}
+.copyright span {
+	display: inline-block;
+}
+.fsi-col-1-line {
+	width: 48px; height: 169px; overflow: hidden; float: left;
+}
+.fsi-col-2-line {
+	width: 48px; height: 169px; overflow: hidden; float: left;
+}
+.fsi-col-3-line {
+	width: 48px; height: 169px; overflow: hidden; float: left;
+}
+.fsi-col-4-line {
+	width: 48px; height: 169px; overflow: hidden; float: left;
+}
+.fsi-col-list {
+	width: 220px; overflow: hidden; padding-left: 40px; float: left;
+}
+.fsi-col-list h3 {
+	height: 35px; color: rgb(170, 170, 170); padding-top: 20px; font-size: 18px;
+}
+.fsi-col-list li {
+	width: 75px; height: 25px; line-height: 25px; font-size: 14px; float: left;
+}
+.bottom_ico {
+	
+}
+.bottom_ico1 a {
+	background-position: 0px 0px;
+}
+.bottom_ico1 a:hover {
+	background-position: 0px -81px;
+}
+.bottom_ico2 a {
+	background-position: -80px 0px;
+}
+.bottom_ico2 a:hover {
+	background-position: -80px -81px;
+}
+.bottom_ico3 a {
+	background-position: -160px 0px;
+}
+.bottom_ico3 a:hover {
+	background-position: -160px -81px;
+}
+.bottom_ico4 a {
+	background-position: -240px 0px;
+}
+.bottom_ico4 a:hover {
+	background-position: -240px -81px;
+}
+.fsi-col-list ul {
+	padding-top: 5px; margin-left: -25px;
+}
+.fsi-col-list ul li a:hover {
+	color: rgb(255, 102, 0);
+}

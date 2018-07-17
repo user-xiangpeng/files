@@ -1,0 +1,12 @@
+var serverUrl = "http://i.sifuba.net";
+var webServerUrl = "http://www.sifuba.net";
+var cookie_name = "username";
+
+
+/*
+ 这里暂时未启用，还是用上面的配置方式
+ */
+var Configs = {
+    ServeruRL: "http://i.sifuba.net",//接口地址
+    CookieName: "username"//Cookie名
+};
